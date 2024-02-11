@@ -1,8 +1,5 @@
 # ReportGenerator
-Certainly! Let's create a descriptive README file for your **report generator application**. Below, I'll outline the key components you can include in your GitHub repository README:
-
 # Report Generator Application
-
 This repository contains a simple **report generator web application** built using the following technologies:
 
 - **Spring MVC**: Provides the web framework for handling HTTP requests and responses.
@@ -46,11 +43,3 @@ This repository contains a simple **report generator web application** built usi
 2. Set up your MySQL database and update `application.properties`.
 3. Run the application using Tomcat or your preferred server.
 4. Access the application via the provided URL.
-
-Feel free to customize this README with additional details, instructions, and screenshots. Happy coding! 🚀
-
-Source: Conversation with Bing, 11/2/2024
-(1) Spring MVC + Spring Data JPA CRUD Example - Java Guides. https://www.javaguides.net/2018/12/spring-mvc-spring-data-jpa-crud-example.html.
-(2) Spring Boot + Jasper Report + MySQL Database Example. https://websparrow.org/spring/spring-boot-jasper-report-mysql-database-example.
-(3) Accessing Data with Spring Data JPA and MySQL - Atta-Ur-Rehman Shah. https://attacomsian.com/blog/accessing-data-spring-data-jpa-mysql.
-(4) Spring MVC + Spring Boot2 + JSP + JPA + Hibernate 5 - Java Guides. https://www.javaguides.net/2018/09/spring-mvc-using-spring-boot2-jsp-jpa-hibernate5-mysql-example.html.
